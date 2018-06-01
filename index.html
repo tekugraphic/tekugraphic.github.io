@@ -23,6 +23,7 @@
         h1 {
             font-family: 'Rubik', sans-serif;
             font-size: 20pt;
+            letter-spacing: 0px;
             transition:text-shadow 0.3s ease-in-out 0s;
         }
         h1:hover {
@@ -32,19 +33,25 @@
             display: block;
             width: 1000vh;
             height: 100vh;
-        }
-        .text {
             display: table-cell;
             vertical-align: middle;
         }
-
+        img {
+            width: 21pt;
+            transition:filter 0.3+s ease-in-out 0s;
+        }
+        img:hover {
+            -webkit-filter: opacity(.7);
+            filter: opacity(.7);
+        }
     </style>
     <link href="https://fonts.googleapis.com/css?family=Rubik:500" rel="stylesheet">
 </head>
 
 <body>
-    <div class="text">
+    <div>
     <h1>Coming Soon.</h1>
+        <a href="https://twitter.com/tekugraphic"> <img src="logo.png"></a>
     </div>
 </body>
 </html>
