@@ -1,0 +1,8 @@
+Origin: Teku's Repo
+Label: Teku
+Suite: stable
+Version: 1.0
+Codename: relative
+Architectures: iphoneos-arm
+Components: main
+Description: Teku's repo for hosting widgets and tweaks.
