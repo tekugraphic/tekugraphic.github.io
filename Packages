@@ -1,0 +1,13 @@
+Package: design.teku.simpleclock1
+Name: SimpleClock 1
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A simple clock widget for Xen HTML
+Maintainer: Teku
+Author: Teku
+Section: Widgets
+SHA1: 00ef6d0fdd00fb84b51483995bfd44696e14c28e
+MD5sum: f42ed48f4a3670c560bdd7d9483df1b4
+Filename: ./debs/design.teku.simpleclock1_1.0.0_iphoneos-arm.deb
+Size: replace
+Depiction: https://tekugraphic.github.io/depictions/design.teku.simpleclock1.html
